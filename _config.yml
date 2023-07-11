@@ -7,6 +7,10 @@ markdown: kramdown
 tracking_id: 81787953
 remote_theme: huseyinozsoy/resume@gem
 
+footer: yes
+footer_url: "https://github.com/huseyinozsoy"
+footer_text: "@2023"
+
 sass:
     style: compressed
     sass_dir: _sass
