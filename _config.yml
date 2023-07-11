@@ -1,14 +1,14 @@
-title: heartsker/resume
-url: "https://github.com/heartsker"
+title: huseyinozsoy/resume
+url: "https://github.com/huseyinozsoy"
 baseurl: "/resume"
 
 markdown: kramdown
 
 tracking_id: 92611710
-remote_theme: heartsker/resume@gem
+remote_theme: huseyinozsoy/resume@gem
 
 footer: yes
-footer_url: "https://github.com/heartsker"
+footer_url: "https://github.com/huseyinozsoy"
 footer_text: "Maintained by Daniel Pustotin. Updated 26.02.2023"
 
 sass:
