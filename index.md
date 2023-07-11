@@ -4,102 +4,46 @@ layout: default
 
 ## 👋 About Me
 
-<img class="profile-picture" src="me.jpeg">
+<!---<img class="profile-picture" src="me.jpeg">-->
 
-Hi! My name is **Daniel Pustotin**. I am _iOS Developer_
+Hi! My name is **Hüseyin Özsoy**. I am _.NET Developer_
 
-Motivated and passionate iOS developer with experience in QA-Engineering and automatic testing. Skilled in UIKit, SwiftUI, Reactive programming, and network and data storage frameworks. Strong problem-solving and leadership abilities, with a goal of creating innovative and revolutionary products
+I'm an experienced .NET backend developer with 2.5 years of expertise in multi-tenancy. I have a strong command of Dapper and i used Entity Framework Core. Additionally, I'm familiar with PostgreSQL, Redis, Amazon SQS, and Scrum. I have also worked on personal projects using Angular. I'm a team player with excellent
+communication and problem-solving skills. I enjoy taking on challenging projects and continuously learning new technologies.
 
-[🐙 My GitHub](https://github.com/heartsker)
+[🐙 My GitHub](https://github.com/huseyinozsoy)
 
 ---
 
 ## 🎓 Education
-- **Higher School of Economics**
-    - Bachelor of Computer Science
-    - *2020 - 2024*
-    - [Applied Mathematics and Information Science](https://www.hse.ru/en/ba/ami/)
+- **Bachelor of Computer Science**
+    - Institution: Düzce University
+    - Year of Graduation: 2021
 
 ---
 
 ## 💪 Skills
 ### Stack
-- Git
-- Smart SVC
-- JIRA
-- Figma
-- Proxyman
-
-### iOS stack
-- UIKit, SwiftUI, Storyboard
-- Reactive programming: Bond and RxSwift
-- Network: Alamofire, experience with creating and working with REST API
-- Storing data: UserDefaults, CoreData, Realm
-- SpriteKit
-- Unit/UI testing
-- GCD and operations
-- Asynchronous programming
-
-### Basic knowledge
-- Design patterns
-- REST API
-- Makefiles and scripting
-- Managing the project structure
+- C# .NET
+- Dapper
+- EF Core
+- PostgreSQL
+- Multi-Tenancy
+- Python.NET
+- Jira
 
 ---
 
 ## 👨‍💻 Engineering Experience
-
-- **QA-Engineer**
-
-    [***GS-Soft***](https://www.gs-soft.com/CMS/en/)
     
-    *May 2018 - July 2021*
+- **.NET Backend Developer at Protein**
 
-    - Full-stack development
-    - Primarily automated testing and QA-engineering
-
-- **iOS-development courses mentor**
+    [***Protein***](https://protein.tech/)
     
-    [***Skillbox***](https://skillbox.ru) 
+    *February 2021 - Present*
 
-    *June 2021 - April 2022*
-    
-    - Homework reviews and mentoring
+    - I worked on inventory management system for cafes and restaurants
+    - I experienced ASP.NET WEB API, Dapper, PostgreSQL, Redis, Amazon SQS in this project
+    - I experienced integration testing and working with scrum
+    - I used Python.NET on the AI project written with .NET about sales forecasting
 
-- **iOS-development courses creator**
-
-    [***Skillbox***](https://skillbox.ru)
-
-    *September 2021 - April 2022*
-
-    - Improvements of existing courses
-    - Creating tasks and theory long reads for students
-
-- **Tinkoff iOS developer internship**
-
-    [***Tinkoff***](https://www.tinkoff.ru)
-    
-    *February 2022 - May 2022*
-
-    - Fixing critical issues and vulnerabilities
-    - Implementing new features for Mobile Bank
-    - Developing new module for app
-    - Improving existing modules structure
-    
-- **Mobile Developer at Yandex**
-
-    [***Yandex.Maps***](https://maps.yandex.ru)
-    
-    *August 2022 - Present*
-
-    - iOS development for Yandex.Maps mobile application
-    - Implementing new features and improving existing ones
-    - Collaborating with designers, QA-engineers, and other developers to ensure high-quality products
-
----
-
-## 🏆 Awards and Achievements
-- ***ICPC*** 2020 - Semifinalist
-- ***HashCode*** 2021 - Top-30%
-- ***Reply Challenge*** 2021 - #105 of 1923
