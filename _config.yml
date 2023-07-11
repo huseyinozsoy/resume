@@ -4,7 +4,7 @@ baseurl: "/resume"
 
 markdown: kramdown
 
-tracking_id: 92611710
+tracking_id: 81787953
 remote_theme: huseyinozsoy/resume@gem
 
 sass:
