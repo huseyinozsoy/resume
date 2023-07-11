@@ -7,10 +7,6 @@ markdown: kramdown
 tracking_id: 92611710
 remote_theme: huseyinozsoy/resume@gem
 
-footer: yes
-footer_url: "https://github.com/huseyinozsoy"
-footer_text: "Maintained by Daniel Pustotin. Updated 26.02.2023"
-
 sass:
     style: compressed
     sass_dir: _sass
